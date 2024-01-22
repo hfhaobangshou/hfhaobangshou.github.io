@@ -1262,7 +1262,7 @@ foot
 		.w40 img{width: 100%}
 		.w100 .w40{position: fixed;right: 0;bottom:30px;z-index: 666;background-color: #fff;display: none}
 	}
-#kjdh{margin: 64px 0 30px;}
+#kjdh{margin-top: 64px;}
 #kjdh .w100 div{width: 100%;float: left;text-align: left;padding: 0 10px;color: #FF0000;font-size: 18px} 
 #kjdh .sy{font-size: 18px;color: #FF0000;margin-bottom: 10px}
 #kjdh .sy a{color: #FF0000}
