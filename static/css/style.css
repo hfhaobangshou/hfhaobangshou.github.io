@@ -151,7 +151,7 @@ banner
 #banner div{width: 80%;margin: 0 auto;}
 #banner div img{width: 80%}
 @media only screen and (max-width: 1280px) {
-  #banner { margin-top:60px;overflow:inherit;}
+  #banner { margin-top:6px;overflow:inherit;}
   #banner .tit{ width:93.75%; margin-left:-45%; font-size:20px;}
   #banner .path{ width:93.75%; height:40px; line-height:40px; margin-left:-46.8%; text-align:left;font-size:12px;}
   #banner .swiper-slide img{max-width:100%; height:auto;}
